@@ -1,0 +1,253 @@
+[
+  {
+    "id": 1,
+    "title": "Prestige Green Valley",
+    "address": "Plot 42, Gachibowli",
+    "city": "Hyderabad, TG",
+    "price": 8500000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2800,
+    "type": "Villa",
+    "status": "Buy",
+    "tag": "New",
+    "rating": 4.9,
+    "reviews": 18,
+    "image": "https://images.unsplash.com/photo-1746439318854-4a8bc02a03ba?w=800&h=600&fit=crop&auto=format",
+    "images": [
+      "https://images.unsplash.com/photo-1746439318854-4a8bc02a03ba?w=800&h=600&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1641998277833-3a911b7b56d8?w=800&h=600&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1638885930125-85350348d266?w=800&h=600&fit=crop&auto=format"
+    ],
+    "agent": {
+      "name": "Ravi Kumar",
+      "title": "Direct Owner",
+      "avatar": "RK",
+      "calls": "+91 98480 12345"
+    },
+    "description": "Spacious 4BHK villa in the heart of Gachibowli IT corridor. Direct from owner — zero brokerage. Premium fittings, modular kitchen, 24×7 security, power backup, and covered parking. Close to HITEC City and Cyber Towers.",
+    "features": [
+      "Zero Brokerage",
+      "24×7 Security",
+      "Power Backup",
+      "Covered Parking",
+      "Modular Kitchen"
+    ],
+    "yearBuilt": 2022,
+    "parking": 2
+  },
+  {
+    "id": 2,
+    "title": "Lodha Meridian Flat",
+    "address": "Block C, Kukatpally",
+    "city": "Hyderabad, TG",
+    "price": 5200000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1650,
+    "type": "Flat",
+    "status": "Buy",
+    "tag": "Featured",
+    "rating": 4.7,
+    "reviews": 31,
+    "image": "https://images.unsplash.com/photo-1643376452350-97eadd2c417f?w=800&h=600&fit=crop&auto=format",
+    "images": [
+      "https://images.unsplash.com/photo-1643376452350-97eadd2c417f?w=800&h=600&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1638541420159-cadd0634f08f?w=800&h=600&fit=crop&auto=format"
+    ],
+    "agent": {
+      "name": "Sunita Reddy",
+      "title": "Direct Owner",
+      "avatar": "SR",
+      "calls": "+91 90000 54321"
+    },
+    "description": "Beautiful 3BHK apartment directly from the owner. No broker involved. Fully vastu-compliant, east-facing, with a balcony view of the township green belt. Close to KPHB Metro station.",
+    "features": [
+      "Zero Brokerage",
+      "East Facing",
+      "Metro Nearby",
+      "Vastu Compliant",
+      "Gym & Pool"
+    ],
+    "yearBuilt": 2020,
+    "parking": 1
+  },
+  {
+    "id": 3,
+    "title": "Shree Residency",
+    "address": "Sector 5, Kompally",
+    "city": "Hyderabad, TG",
+    "price": 22000,
+    "beds": 2,
+    "baths": 1,
+    "sqft": 1100,
+    "type": "Flat",
+    "status": "Rent",
+    "tag": null,
+    "rating": 4.4,
+    "reviews": 44,
+    "image": "https://images.unsplash.com/photo-1638541420159-cadd0634f08f?w=800&h=600&fit=crop&auto=format",
+    "images": [
+      "https://images.unsplash.com/photo-1638541420159-cadd0634f08f?w=800&h=600&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1640109229792-a26a0ee366ff?w=800&h=600&fit=crop&auto=format"
+    ],
+    "agent": {
+      "name": "Mohan Das",
+      "title": "Direct Owner",
+      "avatar": "MD",
+      "calls": "+91 87654 11223"
+    },
+    "description": "2BHK for rent, directly from owner. No broker, no commission. Semi-furnished with wardrobes and AC in all rooms. Society with 24-hour water supply and security guard.",
+    "features": [
+      "Zero Brokerage",
+      "Semi-Furnished",
+      "AC Rooms",
+      "24hr Water",
+      "Security"
+    ],
+    "yearBuilt": 2018,
+    "parking": 1
+  },
+  {
+    "id": 4,
+    "title": "Emerald Hills Plot",
+    "address": "Phase 2, Shamirpet",
+    "city": "Hyderabad, TG",
+    "price": 3800000,
+    "beds": 0,
+    "baths": 0,
+    "sqft": 200,
+    "type": "Plot",
+    "status": "Buy",
+    "tag": "Reduced",
+    "rating": 4.6,
+    "reviews": 9,
+    "image": "https://images.unsplash.com/photo-1638885930125-85350348d266?w=800&h=600&fit=crop&auto=format",
+    "images": [
+      "https://images.unsplash.com/photo-1638885930125-85350348d266?w=800&h=600&fit=crop&auto=format"
+    ],
+    "agent": {
+      "name": "Anjali Sharma",
+      "title": "Direct Owner",
+      "avatar": "AS",
+      "calls": "+91 91234 67890"
+    },
+    "description": "200 sq yd residential plot in HMDA-approved layout. Clear titles, no disputes. Surrounded by greenery and upcoming IT expansion zone. Excellent investment opportunity.",
+    "features": [
+      "HMDA Approved",
+      "Clear Title",
+      "Corner Plot",
+      "Road Facing",
+      "Investment Zone"
+    ],
+    "yearBuilt": 2023,
+    "parking": 0
+  },
+  {
+    "id": 5,
+    "title": "NVR Elite Towers",
+    "address": "Wing A, Manikonda",
+    "city": "Hyderabad, TG",
+    "price": 35000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1450,
+    "type": "Flat",
+    "status": "Rent",
+    "tag": "Featured",
+    "rating": 4.8,
+    "reviews": 22,
+    "image": "https://images.unsplash.com/photo-1640109229792-a26a0ee366ff?w=800&h=600&fit=crop&auto=format",
+    "images": [
+      "https://images.unsplash.com/photo-1640109229792-a26a0ee366ff?w=800&h=600&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1638885930125-85350348d266?w=800&h=600&fit=crop&auto=format"
+    ],
+    "agent": {
+      "name": "Priya Nair",
+      "title": "Direct Owner",
+      "avatar": "PN",
+      "calls": "+91 93456 78901"
+    },
+    "description": "Premium 3BHK flat for rent in Manikonda's most sought-after society. Direct from owner, saving you one month's rent as brokerage. Fully furnished with branded appliances.",
+    "features": [
+      "Zero Brokerage",
+      "Fully Furnished",
+      "Club House",
+      "Children's Play Area",
+      "CCTV"
+    ],
+    "yearBuilt": 2021,
+    "parking": 2
+  },
+  {
+    "id": 6,
+    "title": "Cyber Square Office Space",
+    "address": "Level 4, HITEC City",
+    "city": "Hyderabad, TG",
+    "price": 75000,
+    "beds": 0,
+    "baths": 2,
+    "sqft": 2200,
+    "type": "Commercial",
+    "status": "Rent",
+    "tag": "Featured",
+    "rating": 4.6,
+    "reviews": 14,
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop&auto=format",
+    "images": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop&auto=format",
+      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=800&h=600&fit=crop&auto=format"
+    ],
+    "agent": {
+      "name": "Vinod Rao",
+      "title": "Direct Owner",
+      "avatar": "VR",
+      "calls": "+91 98765 43210"
+    },
+    "description": "Premium plug-and-play office space in the heart of HITEC City. Direct from owner — zero brokerage. High-speed internet, 24×7 power backup, dedicated parking, and a stunning city view from Level 4.",
+    "features": [
+      "Zero Brokerage",
+      "Plug & Play",
+      "24×7 Power Backup",
+      "Dedicated Parking",
+      "High-Speed Internet"
+    ],
+    "yearBuilt": 2020,
+    "parking": 4
+  },
+  {
+    "id": 7,
+    "title": "Vertex Business Park",
+    "address": "Block B, Gachibowli",
+    "city": "Hyderabad, TG",
+    "price": 18000000,
+    "beds": 0,
+    "baths": 4,
+    "sqft": 4500,
+    "type": "Commercial",
+    "status": "Buy",
+    "tag": "New",
+    "rating": 4.8,
+    "reviews": 7,
+    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=800&h=600&fit=crop&auto=format",
+    "images": [
+      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=800&h=600&fit=crop&auto=format"
+    ],
+    "agent": {
+      "name": "Ramesh Gupta",
+      "title": "Direct Owner",
+      "avatar": "RG",
+      "calls": "+91 97654 32109"
+    },
+    "description": "4500 sq ft Grade-A commercial space for sale in Gachibowli's premium business district. Ideal for IT/ITES companies. Clear titles, RERA registered. Direct from owner with flexible payment plans.",
+    "features": [
+      "RERA Registered",
+      "Grade-A Building",
+      "24×7 Security",
+      "Visitor Parking",
+      "Cafeteria"
+    ],
+    "yearBuilt": 2023,
+    "parking": 6
+  }
+]

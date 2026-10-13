@@ -1,0 +1,23 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=700&fit=crop&auto=format",
+    "accent": "#3DA84A",
+    "tag": "DISCOVER",
+    "title": "Find Your\nDream Home",
+    "sub": "Browse verified properties across Hyderabad — flats, villas, and plots tailored for you."
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&h=700&fit=crop&auto=format",
+    "accent": "#1565C0",
+    "tag": "ZERO BROKERAGE",
+    "title": "Direct Owners.\nNo Middlemen.",
+    "sub": "Connect straight with owners. Save lakhs on brokerage and get full transparency on every deal."
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&h=700&fit=crop&auto=format",
+    "accent": "#6A1B9A",
+    "tag": "TRUSTED",
+    "title": "Verified &\nSafe Listings",
+    "sub": "Every property is verified. Your data is protected. Buy, Rent or Sell — the Mana Illu way."
+  }
+]
